@@ -1,13 +1,15 @@
-<h1 align="center">¡Hola! 👋 Me llamo Gastón Avram</h1>
+<h1 align="center">Gastón Ezequiel Avram</h1>
 <h3 align="center">Soy un Desarrollador FrontEnd apasionado!</h3>
 
 - 🔭 Actualmente estoy trabajando como **desarrollador freelance**
 
 - 🌱 Me encuentro aprendiendo **NodeJS, ExpressJS, MongoDB**
 
-- 🤝 Abierto a escuchar **propuestas de trabajo**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://gastonavram1.netlify.app/](https://gastonavram1.netlify.app/)
+
+- 👨‍💻 **Todos mis proyectos** están cargados en ésta plataforma
+
+- 🤝 Abierto a escuchar **propuestas de trabajo**
 
 - 💬 Puedes preguntarme sobre **el tema que quieras**
 
