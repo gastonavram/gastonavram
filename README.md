@@ -1,11 +1,12 @@
-<h1 align="center">Gastón Ezequiel Avram</h1>
-<h3 align="center">Soy un Desarrollador FrontEnd apasionado!</h3>
+<h1 align="center">Full Stack Web Developer</h1>
+<h3> ¡Hola, soy Gastón! Programador autodidacta y muy curioso, por lo que siempre estoy tratando de perfeccionarme y aprender habilidades.
+  <br><br>
+  También soy muy responsable y comprometido, asi que todo el tiempo estoy brindando lo mejor de mí.
+</h3>
 
 - 🔭 Actualmente estoy trabajando como **desarrollador freelance**
 
 - 🌱 Me encuentro aprendiendo **NodeJS, ExpressJS, MongoDB**
-
-
 
 - 👨‍💻 **Todos mis proyectos** están cargados en ésta plataforma
 
@@ -15,7 +16,7 @@
 
 - 📫 Contactame a mi correo **gastonavram39@gmail.com**
 
-- ⚡ Dato curioso **también me apasiona la música**
+- ⚡ Dato curioso: **me apasiona la música**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
