@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Web Developer</h1>
+<h1 align="center">FrontEnd Developer</h1>
 <h3> ¡Hola, soy Gastón! Programador autodidacta y muy curioso, por lo que siempre estoy tratando de perfeccionarme y aprender habilidades.
   <br><br>
   También soy muy responsable y comprometido, asi que todo el tiempo estoy brindando lo mejor de mí.
@@ -14,9 +14,9 @@
 
 - 💬 Puedes preguntarme sobre **el tema que quieras**
 
-- 📫 Contactame a mi correo **gastonavram39@gmail.com**
-
 - ⚡ Dato curioso: **me apasiona la música**
+
+- 📫 Contactame a mi correo **gastonavram39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
