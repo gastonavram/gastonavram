@@ -1,14 +1,14 @@
-<h1 align="center">FrontEnd Developer</h1>
-<h3> ¡Hola, soy Gastón! Programador autodidacta y muy curioso, por lo que siempre estoy tratando de perfeccionarme y aprender habilidades.
+<h1 align="center">Analista de Ciberseguridad | Programador</h1>
+<h3> ¡Hola, soy Gastón! Días tras día me esfuerzo por mejorar mis habilidades y ampliar mis conocimientos, ya que siempre me ha encantado brindar excelencia en todo lo que hago.
   <br><br>
   También soy muy responsable y comprometido, asi que todo el tiempo estoy brindando lo mejor de mí.
 </h3>
 
 - 🔭 Actualmente estoy trabajando como **desarrollador freelance**
 
-- 🌱 Me encuentro aprendiendo **NodeJS, ExpressJS, MongoDB**
+- 🌱 Me encuentro aprendiendo **Ciberseguridad y Programación**
 
-- 👨‍💻 **Todos mis proyectos** están cargados en ésta plataforma
+- 👨‍💻 **Todos mis proyectos** pueden verse mejor en mi portafolio web
 
 - 🤝 Abierto a escuchar **propuestas de trabajo**
 
